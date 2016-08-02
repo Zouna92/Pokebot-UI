@@ -24,7 +24,9 @@ Farmpokeballs
 This will stop catching pokemon and start gathering Pokeballs.
 ###
 
-For all the features of the bot , visit : https://github.com/PocketMobsters/PokeMobBot
+For all the features of the bot visit : 
+https://github.com/PocketMobsters/PokeMobBot
+
 For all the features of the PokeSniper 2 visit: http://www.ownedcore.com/forums/pokemon-go/pokemon-go-hacks-cheats/566079-pokesniper2-pokemon-sniper-catch-any-pokemon-no-matter-where-you.html
 
 I'm still working on this and I will update more features and settings in the future. 
